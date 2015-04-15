@@ -1,0 +1,35 @@
+Lost field installed-size, 21577
+Lost field installed-size, 25242
+Lost field installed-size, 25904
+Lost field installed-size, 107301
+Lost field installed-size, 108836
+Lost field installed-size, 134599
+Package: chinadns
+Version: 1.3.1
+Depends: libc
+Section: net
+Architecture: ar71xx
+Maintainer: clowwindy <clowwindy42@gmail.com>
+MD5Sum: f5c9617fd215ce32f01ec23da60ae481
+Size: 27358
+Filename: chinadns_1.3.1_ar71xx.ipk
+Source: /home/clowwindy/workspace/ChinaDNS/openwrt
+Description:  A DNS forwarder that ignores incorrect(you knew it) responses.
+Priority: optional
+
+
+Package: shadowsocks-libev-polarssl
+Version: 1.6.1
+Depends: libc, libpolarssl
+Section: net
+Architecture: ar71xx
+Maintainer: Max Lv <max.c.lv@gmail.com>
+MD5Sum: 3ea9f1b21ec357f60a0fc005a395f8d8
+Size: 135170
+Filename: shadowsocks-libev-polarssl_1.6.1_ar71xx.ipk
+Source: package/shadowsocks-libev/openwrt
+Description:  Shadowsocks-libev is a lightweight secured scoks5 proxy for embedded
+ devices and low end boxes.
+Priority: optional
+
+
