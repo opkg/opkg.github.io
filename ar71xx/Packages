@@ -6,6 +6,8 @@ Lost field installed-size, 108836
 Lost field installed-size, 134599
 Lost field licensefiles, LICENSE
 Lost field installed-size, 146562
+Lost field licensefiles, LICENSE
+Lost field installed-size, 43151
 Package: chinadns
 Version: 1.3.1
 Depends: libc
@@ -33,6 +35,21 @@ Source: /home/rin/openwrt/sdk/.package/shadowsocks-libev
 Description:  Shadowsocks-libev is a lightweight secured scoks5 proxy for embedded
  devices and low end boxes.
 License: GPLv3
+Priority: optional
+
+
+Package: shadowvpn
+Version: 0.1.6
+Depends: libc, kmod-tun, ip
+Section: net
+Architecture: ar71xx
+Maintainer: clowwindy <clowwindy42@gmail.com>
+MD5Sum: 47c3a3e13f905f626c8e3eda4aecc2a7
+Size: 43764
+Filename: shadowvpn_0.1.6_ar71xx.ipk
+Source: /home/clowwindy/workspace/ShadowVPN/openwrt
+Description:  A fast, safe VPN based on libsodium
+License: MIT
 Priority: optional
 
 
