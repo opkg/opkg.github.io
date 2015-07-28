@@ -7,6 +7,8 @@ Lost field installed-size, 134599
 Lost field licensefiles, LICENSE
 Lost field installed-size, 146562
 Lost field licensefiles, LICENSE
+Lost field installed-size, 154699
+Lost field licensefiles, LICENSE
 Lost field installed-size, 43151
 Package: chinadns
 Version: 1.3.1
@@ -23,14 +25,14 @@ Priority: optional
 
 
 Package: shadowsocks-libev-polarssl
-Version: 2.1.4-1
+Version: 2.2.2-1
 Depends: libc, libpolarssl
 Section: net
 Architecture: ar71xx
 Maintainer: Max Lv <max.c.lv@gmail.com>
-MD5Sum: e977e81bbc1e791cd8d765f6f0100560
-Size: 147028
-Filename: shadowsocks-libev-polarssl_2.1.4-1_ar71xx.ipk
+MD5Sum: 00893d54c64653bd7e3173b46c988be0
+Size: 155514
+Filename: shadowsocks-libev-polarssl_2.2.2-1_ar71xx.ipk
 Source: /home/rin/openwrt/sdk/.package/shadowsocks-libev
 Description:  Shadowsocks-libev is a lightweight secured scoks5 proxy for embedded
  devices and low end boxes.
